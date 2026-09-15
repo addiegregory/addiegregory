@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋, I'm Addie!
 
-<!--
-**addiegregory/addiegregory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Featured Projects
 
-Here are some ideas to get you started:
+### Sudoku Game - Python and Pygame
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+An interactive Sudoku game developed collaboratively by a four-person team. It generates random puzzles with three difficulty levels and includes keyboard navigation, number sketching, reset controls, and automatic solution validation.
+
+**My Contributions:**
+- Updated the board-generation logic to store completed solutions for accurate answer validation
+- Preserved the original puzzle state for the Reset feature
+- Implemented Backspace functionality for clearing editable cells
+- Cleaned up imports and improved the board initialization logic
+
+*Source code is private due to course repository restrictions.*
