@@ -2,14 +2,25 @@
 
 ## Featured Projects
 
-### Sudoku Game - Python and Pygame
+### [RLE Image Encoder](https://github.com/addiegregory/RLE-Image-Encoder)
 
-An interactive Sudoku game developed collaboratively by a four-person team. It generates random puzzles with three difficulty levels and includes keyboard navigation, number sketching, reset controls, and automatic solution validation.
+A Python application that compresses and reconstructs image data using run-length encoding, hexadecimal conversion, and terminal-based image display.
+
+### [Pakudex](https://github.com/addiegregory/Pakudex)
+
+A multi-file Python application for managing fictional creatures using classes, input validation, sorting, and object-oriented programming.
+
+### Sudoku Game
+
+An interactive Pygame application developed collaboratively by a four-person team using Python. It generates random puzzles with three difficulty levels and includes keyboard navigation, number sketching, reset controls, and automatic solution validation.
 
 **My Contributions:**
-- Updated the board-generation logic to store completed solutions for accurate answer validation
-- Preserved the original puzzle state for the Reset feature
-- Implemented Backspace functionality for clearing editable cells
-- Cleaned up imports and improved the board initialization logic
+- Improved board-generation logic to store completed solutions for accurate validation
+- Implemented puzzle resetting and Backspace support
+- Cleaned up imports and board initialization
 
 *Source code is private due to course repository restrictions.*
+
+### More Projects
+
+View my complete [Python Projects list](https://github.com/stars/addiegregory/lists/python-projects)
