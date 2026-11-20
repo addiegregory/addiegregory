@@ -22,10 +22,6 @@ The advisor evaluates the player's cards, simulates unknown opponent and communi
 
 A Python application that compresses and reconstructs image data using run-length encoding, hexadecimal conversion, and terminal-based image display.
 
-### [Pakudex](https://github.com/addiegregory/Pakudex)
-
-A multi-file Python application for managing fictional creatures using classes, input validation, sorting, and object-oriented programming.
-
 ### Sudoku Game
 
 An interactive Pygame application developed collaboratively by a four-person team using Python. It generates random puzzles with three difficulty levels and includes keyboard navigation, number sketching, reset controls, and automatic solution validation.
