@@ -18,9 +18,17 @@ The advisor evaluates the player's cards, simulates unknown opponent and communi
 
 ## Other Projects
 
-### [RLE Image Encoder](https://github.com/addiegregory/RLE-Image-Encoder)
+### TGA Image Processor
+
+A C++ command-line application that reads and writes binary TGA images, supporting image blending, color-channel adjustments, and 180° rotation. Allows users to chain multiple operations in a single command.
+
+*Source code is private due to course repository restrictions.*
+
+### RLE Image Encoder
 
 A Python application that compresses and reconstructs image data using run-length encoding, hexadecimal conversion, and terminal-based image display.
+
+*Source code is private due to course repository restrictions.*
 
 ### Sudoku Game
 
@@ -30,4 +38,4 @@ An interactive Pygame application developed collaboratively by a four-person tea
 
 ### More Projects
 
-View my complete [Python Projects list](https://github.com/stars/addiegregory/lists/python-projects)
+View my complete [Python Projects list](https://github.com/stars/addiegregory/lists/python-projects) and [C++ Projects list](https://github.com/stars/addiegregory/lists/c-projects)
