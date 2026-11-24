@@ -8,7 +8,7 @@ A Python command-line application that analyzes Texas Hold'em situations in *Red
 
 The advisor evaluates the player's cards, simulates unknown opponent and community cards, calculates pot odds, and recommends whether to check, call, raise, or fold.
 
-#### Technical Highlights:
+#### Highlights:
 - Monte Carlo simulation for estimating win probability and equity
 - Complete Texas Hold'em hand-evaluation system
 - Pot-odds and required-equity calculations
