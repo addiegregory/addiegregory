@@ -20,7 +20,7 @@ The advisor evaluates the player's cards, simulates unknown opponent and communi
 
 ### TGA Image Processor
 
-A C++ command-line application that reads and writes binary TGA images, supporting image blending, color-channel adjustments, and 180° rotation. Allows users to chain multiple operations in a single command.
+A C++ command-line application that reads and writes binary TGA images. It supports image blending, color-channel adjustments, and 180° rotation, and allows users to chain multiple operations in a single command.
 
 *Source code is private due to course repository restrictions.*
 
