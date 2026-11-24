@@ -38,4 +38,4 @@ An interactive Pygame application developed collaboratively by a four-person tea
 
 ### More Projects
 
-View my complete [Python Projects list](https://github.com/stars/addiegregory/lists/python-projects) and [C++ Projects list](https://github.com/stars/addiegregory/lists/c-projects)
+View my complete [Python Projects](https://github.com/stars/addiegregory/lists/python-projects) and [C++ Projects](https://github.com/stars/addiegregory/lists/c-projects) lists.
