@@ -10,6 +10,10 @@ Developed a Python-based poker decision-support system using **Monte Carlo simul
 - Developed a five- to seven-card hand-evaluation algorithm with hand ranking, tie-breaking, and optimal combination selection.
 - Built a modular, object-oriented system integrating pot-odds calculations, stack-aware decision logic, input validation, and automated unit testing.
 
+#### Future Development
+
+Expanding the application into a real-time, AI-powered poker advisor by integrating computer vision for automatic card recognition from gameplay screenshots, machine learning for strategy optimization, and an in-game overlay for live decision support.
+
 ## Other Projects
 
 ### Minesweeper
