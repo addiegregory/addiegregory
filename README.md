@@ -20,6 +20,15 @@ The advisor evaluates the player's cards, simulates unknown opponent and communi
 
 ### Minesweeper
 
+Developed a graphical Minesweeper application in **C++17 and SFML 3**, implementing randomized board generation, interactive gameplay, real-time timers, and persistent leaderboard tracking.
+
+- Designed a modular, object-oriented architecture with separate `Board`, `Tile`, and `Leaderboard` components to manage game logic and state.
+- Implemented an iterative flood-fill algorithm for revealing connected tiles and used `std::mt19937` with `std::shuffle` for randomized mine placement.
+- Built an event-driven graphical interface using SFML for mouse input, sprite rendering, and pause/resume functionality.
+- Implemented file I/O, score sorting, and ranking algorithms to maintain a persistent top-five leaderboard.
+
+*Source code is private due to course repository restrictions.*
+
 ### TGA Image Processor
 
 A C++ command-line application that reads and writes binary TGA images. It supports image blending, color-channel adjustments, and 180° rotation, and allows users to chain multiple operations in a single command.
