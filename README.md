@@ -27,6 +27,10 @@ Developed a graphical Minesweeper application in **C++17 and SFML 3**, implement
 - Built an event-driven graphical interface using SFML for mouse input, sprite rendering, and pause/resume functionality.
 - Implemented file I/O, score sorting, and ranking algorithms to maintain a persistent top-five leaderboard.
 
+<p align="center">
+  <img src="images/minesweeper-gameplay.png" alt="Minesweeper Gameplay" width="500">
+</p>
+
 *Source code is private due to course repository restrictions.*
 
 ### TGA Image Processor
