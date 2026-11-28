@@ -4,17 +4,11 @@
 
 ### [RDR2 Poker Advisor](https://github.com/addiegregory/RDR2-Poker-Advisor)
 
-A Python command-line application that analyzes Texas Hold'em situations in *Red Dead Redemption 2* and provides probability-based strategy recommendations.
+Developed a Python-based poker decision-support system using **Monte Carlo simulation, probability, and expected-value analysis** to generate explainable strategy recommendations for *Red Dead Redemption 2*.
 
-The advisor evaluates the player's cards, simulates unknown opponent and community cards, calculates pot odds, and recommends whether to check, call, raise, or fold.
-
-#### Highlights:
-- Monte Carlo simulation for estimating win probability and equity
-- Complete Texas Hold'em hand-evaluation system
-- Pot-odds and required-equity calculations
-- Stack-aware, explainable action recommendations
-- Compact card parsing and input validation
-- Object-oriented design with automated unit testing
+- Implemented Monte Carlo simulations to estimate win probability, hand equity, and outcomes against randomized opponents.
+- Developed a five- to seven-card hand-evaluation algorithm with hand ranking, tie-breaking, and optimal combination selection.
+- Built a modular, object-oriented system integrating pot-odds calculations, stack-aware decision logic, input validation, and automated unit testing.
 
 ## Other Projects
 
